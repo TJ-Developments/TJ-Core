@@ -1,4 +1,4 @@
-# Made By: TJ Developments (TKiljoy & KingJamesTheDev)*
+# Made By: TJ Developments (TKiljoy & KingJamesTheDev)
 
 # GuidLines:
 **You May NOT Repost This Script On ANY platform Without Our Written Consent To Do So.**
